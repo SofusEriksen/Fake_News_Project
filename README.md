@@ -1,2 +1,2 @@
-# Group-Fake-News-Project
+# Fake News Project
 Final project in 'Grundlæggende datascience'
