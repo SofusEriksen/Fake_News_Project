@@ -4,7 +4,9 @@ This is the final project for the course "Grundlæggende datascience" focusing o
 
 ## Usage
 
-To run the code in "Final project.ipynb", ensure that you have the file "995,000_rows.csv" in your working directory.
+To run the code in "Final project.ipynb", ensure that you have the file "995,000_rows.csv" in your working directory and then run the cells sequentially.
+
+
 
 ## Package Versions
 
